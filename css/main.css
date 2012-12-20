@@ -37,6 +37,8 @@ strong, .strong {font-weight: 700;}
 
 .printedContent {line-height: 1.3;}
 
+.demoImg { float: right; margin-left: 15px; margin-bottom: 15px; }
+
 .js .tinynav { display: none }
 
 ul.mainMenu, li.page_item {
