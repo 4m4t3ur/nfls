@@ -15,14 +15,11 @@ h1 { font-size: 35pt; margin-top: 67px; margin-bottom: 10px; font-weight: 700;}
 
 strong, .strong {font-weight: 700;}
 
-
 .logoContainer {width: 200px; position: absolute; left: -230px; margin-top: -7px;}
-
 
 .contentFrame {float: right; max-width: 830px; min-width: 300px; width: 100%; }
 
 .demoLike { float: right; margin-top: 80px; }
-
 
 .languageSelecta {float: right; margin: 15px 90px 0 0;}
 
@@ -59,7 +56,6 @@ ul.subMenu {
 	margin-top: 37px;	
 }
 
-
 ul.mainMenu li.page_item a {
 	color: #000000;	
 	font-weight: 700; 
@@ -79,7 +75,5 @@ ul.subMenu li.current_page_item a
  {
 	color: #f0741e; 
 }
-
-/* footer { height: 35px; width: 100%; position: absolute; bottom: 0; z-index: 1; } */
 
 .contacts {background-color: #616161; height: 35px; margin-right: 47px; color: #ffffff; text-align: right; padding: 18px 10px 0 0; font-size: 10pt; }
